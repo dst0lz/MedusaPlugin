@@ -1,0 +1,13 @@
+name: Medusa
+version: 1.0
+author: DerStandard
+depend:
+  - ProtocolLib
+  - Intave
+main: eu.thelair.medusa.Medusa
+
+commands:
+  report:
+  staffnotify:
+  medusatoggle:
+  createneptun:
